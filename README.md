@@ -1,5 +1,5 @@
 
-This is a search API helps you search for the any specific user you want to find or repository. 
+This app is a search API helps you find a user by searching for username. 
 
 # github-vue
 
