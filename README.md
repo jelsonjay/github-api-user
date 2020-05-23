@@ -1,3 +1,6 @@
+
+This is a search API helps you search for the any specific user you want to find or repository. 
+
 # github-vue
 
 ## Project setup
