@@ -1,5 +1,7 @@
+#RestfulAPI
 
-This app is a search API helps you find a user by searching for username. 
+
+This is a simple RestfulAPI searching for Github user built with Vue.js and Bootstrap. 
 
 # github-vue
 
