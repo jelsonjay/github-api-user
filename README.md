@@ -1,9 +1,9 @@
-#RestfulAPI
+# RestfulAPI
 
 
 This is a simple RestfulAPI searching for Github user built with Vue.js and Bootstrap. 
 
-# github-vue
+## github-vue
 
 ## Project setup
 ```
